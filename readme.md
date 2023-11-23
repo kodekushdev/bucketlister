@@ -4,6 +4,15 @@
 
 This project aims to create a comprehensive accommodation booking web application, inspired by the Airbnb model. The system seamlessly connects users with available accommodations, providing an intuitive and user-friendly experience.
 
+## Demo
+
+Check out the live demo: [Booking App Demo](https://bucketlister.vercel.app/)
+
+To explore the app, you can use the following test login credentials:
+
+- **Email:** test@gmail.com
+- **Password:** test
+
 ## Frontend:
 
 1. **Project Initialization:** The web application is initialized using Vite, ensuring a fast and efficient development environment.
